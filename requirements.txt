@@ -1,0 +1,7 @@
+beautifulsoup4
+pandas
+streamlit
+altair
+gspread
+google
+gspread_dataframe
